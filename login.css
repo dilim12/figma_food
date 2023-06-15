@@ -1,0 +1,136 @@
+.welcome{
+    
+position: absolute;
+width: 214px;
+height: 33px;
+left: 982px;
+top: 278px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 27px;
+line-height: 33px;
+color: #00302E;
+}
+.box1{
+
+    position: absolute;
+    width: 488px;
+    height: 71px;
+    left: 845px;
+    top: 372px;
+    margin-left: -900px;
+    margin-top: -300px;
+    background: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    border-radius: 5px;
+}
+.box_name{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+margin-left: -300px;
+margin-top: 20px;
+text-align: center;
+color: rgba(0, 48, 46, 0.53);
+}
+
+.box2{
+
+    position: absolute;
+    width: 488px;
+    height: 71px;
+    left: 845px;
+    top: 372px;
+    margin-left: -850px;
+    margin-top: -250px;
+    background: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(251, 221, 187, 0.51);
+    border-radius: 5px;
+}
+.box2_name{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+margin-top:20px;
+margin-left: -300px;
+text-align: center;
+color: rgba(0, 48, 46, 0.53);
+}
+
+.box3_name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 33px;
+    color: #00302E;
+    margin-top:-30px;
+    margin-left: 700px;
+    text-align: center;
+}
+.btn{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 40px;
+gap: 10px;
+color: white;
+position: absolute;
+width: 488px;
+height: 60px;
+left: 5px;
+top: 100px;
+background: #00302E;
+border-radius: 5px;
+}
+a{
+    color: white;
+}
+.accaunt{
+    
+position: absolute;
+width: 133px;
+height: 33px;
+left: 6px;
+top: 204px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.91);
+
+}
+.forgot{
+    
+position: absolute;
+width: 125px;
+height: 33px;
+left: 350px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 33px;
+/* identical to box height, or 236% */
+
+text-align: center;
+
+color: rgba(0, 48, 46, 0.91);
+}
